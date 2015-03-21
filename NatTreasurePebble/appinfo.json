@@ -1,0 +1,19 @@
+{
+  "uuid": "c642d196-5dd7-4f3e-8f47-a5e2b0ff758e",
+  "shortName": "NatTreasurePebble",
+  "longName": "NatTreasurePebble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
